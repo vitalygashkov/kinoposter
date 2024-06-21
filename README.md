@@ -1,3 +1,3 @@
 # Kinoposter
 
-This extension allows do download high quality poster by clicking on main poster image at https://kinopoisk.ru
+This extension allows do download high quality posters from https://kinopoisk.ru
